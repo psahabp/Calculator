@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&family=Ubuntu:wght@300&display=swap');
+html, body {
+  height: 100%;
+  width: 100%;
+  font-family: 'Roboto', sans-serif; 
+  background-color: black;
+  background-image: url(https://th.bing.com/th/id/R.98cb131dc478108a8eb145754b674c09?rik=sLih%2fqE5uXVk9Q&riu=http%3a%2f%2f1.bp.blogspot.com%2f-7Xu2uC6tSqo%2fUiwaU3MIo2I%2fAAAAAAAAAfs%2fDoBKqF3xkHo%2fs1600%2fMath%2bBackgrounds%2bPowerpoint%2bWallpapers.jpg&ehk=a2KfwOksYWUS7vN2WDj8LTnyU3zw6fuMeC4bQ79sHuw%3d&risl=&pid=ImgRaw&r=0://cdn3.vectorstock.com/i/1000x1000/56/67/science-and-mathematics-abstract-background-vector-11335667.jpg);
+  color: white;
+}
+h1{
+    color:white;
+    font-size: 48px;
+}
+
+.button{
+  width: 66px;
+  padding: 20px;
+  margin: 0 3px;
+  border: 2px solid black;
+  border-radius: 9px;
+  cursor: pointer;
+}
+
+.row{
+  margin: 8px 0;
+}
+.row input{
+  width: 291px;
+  font-size: 20px;
+    margin: 0;
+    padding: 10px 0px;
+    border: 2px solid black;
+    border-radius: 5px;
+}
